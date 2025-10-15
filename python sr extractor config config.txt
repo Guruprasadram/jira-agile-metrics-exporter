@@ -1,0 +1,16 @@
+
+## Output
+- `jira_export_YYYYMMDD.xlsx`
+- `jira_export_YYYYMMDD.csv`
+
+## Example Analytics
+- Cycle/lead/velocity per project, team, sprint, label
+- DORA metrics dashboard (deployment, failure, recovery)
+- Team efficiency trends (backtracks, completion ratio)
+
+## License
+MIT
+
+## Contributing
+PRs and feature requests welcome.
+
